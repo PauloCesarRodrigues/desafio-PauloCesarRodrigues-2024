@@ -82,7 +82,3 @@ Saída
   erro: "Animal inválido"
 }
 ```
-
-### O CÓDIGO
-Você está recebendo uma estrutura básica para desenvolver a lógica do desafio. O arquivo principal está localizado dentro da pasta `src` e se chama `recintos-zoo.js`. Você pode desenvolver a sua lógica criando outros arquivos, métodos e até mesmo outras classes, porém o resultado deve poder ser obtido através do método `analisaRecintos`.
-
